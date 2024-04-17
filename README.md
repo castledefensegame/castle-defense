@@ -3,8 +3,9 @@
     The battle has yet to begin. Both sides are gathering resources, training troops, 
     and forming battle strategies to prepare themselves for the upcoming attack.
     The attackers are formulating battle formations, strategies, and tactics that the
-    defenders won't expect, all the while the defenders are expecting and preparing for the worst.
-    One single mistake could be the deciding deciding factor for the battle - and just maybe of the entire war...
+    defenders won't expect, all the while the defenders are expecting and preparing for 
+    the worst. One single mistake could be the deciding deciding factor for the battle -
+    and just maybe of the entire war...
 
 (work in progress)
 
