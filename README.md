@@ -8,7 +8,7 @@ _**But that all may change soon.**_
 
 _Lately there's been a group making a name for themselves. They've earned the name "SMP" (small military pact) because of their impressive combat strength despite their small numbers. About a week ago, word got out that one of their friends was allegedly sent to the crystal's kingdom as a sacrifice to not curse her village. This angered the SMP, so they declared war on the crystal's kingdom. They were going to break into the kingdom to destroy the crystal and free their friend._
 
-_The battle has yet to begin. Both sides are gathering resources and forming battle strategies to prepare themselves for the upcoming attack. The attackers are formulating battle formations, strategies, and tactics that the defenders won't expect, all the while the defenders are expecting and preparing for the worst. One single mistake could be the deciding deciding factor for the battle - and just maybe for the fate of the world..._
+_The battle has yet to begin. Both sides are formulating battle strategies to prepare themselves for the upcoming battle. One single mistake could be the deciding deciding factor for the battle - and just maybe for the fate of the world..._
 
 (work in progress)
 
