@@ -2,9 +2,9 @@
 
 _There exists a legendary 1000-year-old crystal, which glows green. Some say that its very exsistence is the root of all evil - that even hearing its name would bring upon a curse - it could be anywhere from stubbing your toe to a fate far worse than death itself._
 
-_But there exists a kingdom on a far away island in possession of this crystal who have been guarding it for the past two centuries. They claim that the crystal has brought their kingdom nothing but blessings, so they've came to worship it. There are many armies that had tried to storm their castle. However, for reasons still unknown, none of them prevailed. To this point, no one outside of the kingdom has laid eyes on it and lived to tell the tale, so people doubt the existnce of the crystal and its kingdom._
+_But there exists a kingdom on a far away island in possession of this crystal who have been guarding it for the past two centuries. They are known as the Crystal's Kingdom. They claim that the crystal has brought their kingdom nothing but blessings, so they've came to worship it. There are many armies that had tried to storm their castle. However, for reasons still unknown, none of them prevailed. Some think the reason for this may be the alleged blessings or curses, others say it's the sheer force of their military. Either way, the crystal's kingdom was very well known for having a legendary **Cᴀsᴛʟᴇ Dᴇғᴇɴsᴇ.**_
 
-_**But that all may change soon.**_
+_To this point, no one outside of the kingdom has laid eyes on it and lived to tell the tale, so people doubt the existnce of the crystal and its kingdom. But that all may change soon._
 
 _Lately there's been a group making a name for themselves. They've earned the name "SMP" (small military pact) because of their impressive combat strength despite their small numbers. About a week ago, word got out that one of their friends was allegedly sent to the crystal's kingdom as a sacrifice to not curse her village. This angered the SMP, so they declared war on the crystal's kingdom. They were going to break into the kingdom to destroy the crystal and free their friend._
 
