@@ -29,11 +29,11 @@ Archer - Shoot arrows over long ranges that deal a lot of damage
 
 Assassin - Weaker class, but very fast
 
-Mage - Cast different spells to harm the other team & help your own
+Mage - Cast spells that harm the other team
 
 -----------
 
-_How do I join a game?_
-LAN (hasn't been implimented at the time of writing)
+To join a game, click the play button (must select a class for it to appear), then type in the IP and port of the server (if you're hosting, then use your own IP). Then click "Create Game" to host a game or "Join Game" to join the game. 
+
 
 You can download the game by clicking [here.](https://github.com/castledefensegame/castle-defense/releases)
